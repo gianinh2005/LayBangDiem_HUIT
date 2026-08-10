@@ -1,0 +1,15 @@
+các thư viện cần thiết:
+
+beautifulsoup4
+pandas
+openpyxl
+playwright
+reportlab
+
+pip install beautifulsoup4 pandas openpyxl playwright reportlab
+playwright install
+
+cách dùng:
+B1: Chạy file Main
+b2: Đăng nhập web sinh viên, mở trang Kết Quả Học Tập chờ load đầy đủ
+B3: enter
